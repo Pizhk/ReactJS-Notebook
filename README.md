@@ -10,7 +10,7 @@ So, I took the leap and transformed my Markdown repository into a full-fledged w
 
 ***Check It Out:*** <a href="https://startling-moonbeam-1461ff.netlify.app/">ReactJS Notebook 📒</a>
 
-**Here's a screenshot of the website:**
+## **Here's a screenshot of the website:**
 <img width="1000" alt="Screenshot" src="https://github.com/mutasim77/ReactJS-Notebook/assets/96326525/5b277a05-137e-4041-9bef-9bf34fc06fb1">
 
 ## Your Support Matters 🌟
